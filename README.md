@@ -58,6 +58,6 @@ Borrow out = A'Bin + A'B + BBin
 
 # RESULT
 
-Half adder and subtractor circuit is studied and its truth table is verified in Quartus using Verilog programming.
+Full adder and subtractor circuit is studied and its truth table is verified in Quartus using Verilog programming.
 
 
